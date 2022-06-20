@@ -2,7 +2,8 @@
 
 Thanks for checking out my GitHub 🙏
 
-- 🔭 I’m currently working on [Ovation](https://ovt.app/)
-- 🌱 I’m currently learning Ethereum
-- 👯 I’m looking to collaborate on awesome projects
-- ⚡ Fun fact: I've never actually been employed in IT
+- 🔭 Latest project: [Ovation](https://ovt.app/)
+- 🌱 I’m currently learning how to work with the Ethereum blockchain and Solidity
+- 👯 Interested in learning new technologies and collaborating on awesome projects
+
+Cheers
